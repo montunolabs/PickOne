@@ -13,7 +13,7 @@ Product decisions and delegated implementation follow the
 ## Status
 
 Current Phase:
-Phase 3 — Decision Product MVP
+V1.0 release — see [V1 release delivery](../process/v1-release-delivery.md)
 
 Status:
 In Progress
@@ -294,7 +294,9 @@ merge gates, and final milestone acceptance was given on `2026-10-03`.
 Whole-App Localization & Visual Improvement
 
 Status:
-In definition — feedback and Pick behavior accepted on `2026-10-05`; Product
+Closed at Home PR3 (#71, merged `2026-11-17`). The remaining M9 scope is
+superseded by [V1 release delivery](../process/v1-release-delivery.md); the
+text below is historical. Feedback and Pick behavior accepted on `2026-10-05`; Product
 has approved the Home v2 visual direction and
 [Design handoff](https://github.com/montunolabs/PickOne/issues/57#issuecomment-5992956491).
 The [Home-only executable specification](../milestones/milestone-9-home-implementation.md)

@@ -28,6 +28,9 @@ linked authority or workflow for the task instead of duplicating it here.
 
 ## Delivery Requirements
 
+- Read [`docs/process/v1-release-delivery.md`](docs/process/v1-release-delivery.md)
+  first. It defines the v1.0 scope and merge gate and overrides conflicting
+  rules in the other process documents until v1.0 ships.
 - Read [`docs/process/issue-driven-delivery.md`](docs/process/issue-driven-delivery.md)
   before creating or handing off an implementation issue or PR.
 - Read [`docs/process/agent-delivery-model.md`](docs/process/agent-delivery-model.md)

@@ -4,6 +4,10 @@
 
 Accepted
 
+> **V1 delivery mode is active.** Where this document conflicts with
+> [V1 release delivery](v1-release-delivery.md), that document wins until v1.0
+> ships.
+
 ## Purpose
 
 Keep product and engineering decisions coherent while allowing implementation

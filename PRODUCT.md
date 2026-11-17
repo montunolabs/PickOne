@@ -29,14 +29,16 @@ decision experience genuinely useful during real movie nights on the Product
 Owner's iPhone.
 
 A partner may participate in the decision, but the first version does not model
-separate partner preferences or attempt to combine household profiles. External
-user validation, monetization, and public distribution are intentionally
-postponed until the household pilot demonstrates utility. They are deferred,
-not rejected as future product directions.
+separate partner preferences or attempt to combine household profiles.
+Monetization and external user research remain deferred.
 
-The household pilot supports iPhone and iPad running iOS/iPadOS 26 or later.
-New PickOne builds no longer support iOS/iPadOS 18. This platform decision does
-not change the decision experience or authorize Milestone 9 design work.
+On `2026-11-17` the Product Owner decided to ship: v1.0 targets TestFlight and
+then the App Store, with the scope fixed in
+[V1 release delivery](docs/process/v1-release-delivery.md). Where an older
+section of this document describes iPad support, the Discover or Search tabs,
+or pilot-only distribution, that v1.0 scope wins.
+
+V1.0 supports iPhone running iOS 26 or later. iPad support is deferred.
 
 ## One-Sentence Definition
 

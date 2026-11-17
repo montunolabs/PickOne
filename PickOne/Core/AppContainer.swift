@@ -176,7 +176,10 @@ private extension AppContainer {
         }
         return HomeDecisionViewModel(
             threeForTonight: homeUseCase,
-            getMovieDisplayMetadata: AppConfiguration.usesHomeCompositionScenarioForUITests
+            // UI journeys use fixture movie IDs. Hydrating them from live TMDB
+            // replaces fixture titles with real ones and makes the tests
+            // depend on the network.
+            getMovieDisplayMetadata: AppConfiguration.isUITesting
                 ? nil : useCases.getMovieDisplayMetadata,
             pickModel: HomePickViewModel(
                 manage: ManageViewingDecision(repository: viewingDecisions),

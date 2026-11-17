@@ -46,20 +46,6 @@ struct MainTabView: View {
                 )
             }
 
-            Tab("Discover", systemImage: "film", value: MainTab.discover) {
-                DiscoveryView(
-                    model: container.discoveryViewModel,
-                    getMovieDetail: container.getMovieDetail,
-                    getViewerMovieState: container.getViewerMovieState,
-                    updateViewerMovieState: container.updateViewerMovieState,
-                    checkAvailability: container.checkMovieAvailability,
-                    preparePlaybackOptions: container.preparePlaybackOptions,
-                    imagePipeline: container.imagePipeline,
-                    viewerStateDidChange: reconcileHome,
-                    eligibilityDidChange: repairHome
-                )
-            }
-
             Tab("Watchlist", systemImage: "bookmark", value: MainTab.watchlist) {
                 WatchlistView(
                     model: container.watchlistViewModel,
@@ -145,7 +131,6 @@ struct MainTabView: View {
 private enum MainTab: Hashable {
     case home
     case search
-    case discover
     case watchlist
     case settings
 }

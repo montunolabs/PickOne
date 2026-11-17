@@ -9,7 +9,7 @@ SIMULATOR_OS ?= latest
 TEST_DESTINATION := platform=iOS Simulator,name=$(SIMULATOR_NAME),OS=$(SIMULATOR_OS)
 DERIVED_DATA ?= $(CURDIR)/.derivedData
 
-.PHONY: help setup format lint quality check-secrets test test-unit test-ui test-ipad-ui analyze build-release verify simulators devices clean
+.PHONY: help setup format lint quality check-secrets test test-unit test-ui analyze build-release verify simulators devices clean
 
 help:
 	@echo "Available commands:"
@@ -20,7 +20,6 @@ help:
 	@echo "  make test           Run all unit and UI tests on iPhone"
 	@echo "  make test-unit      Run unit tests on iPhone"
 	@echo "  make test-ui        Run UI journeys on iPhone"
-	@echo "  make test-ipad-ui   Run the focused iPad navigation journey"
 	@echo "  make analyze        Run Xcode static analysis"
 	@echo "  make build-release  Build the unsigned Release app"
 	@echo "  make verify         Run the required PR delivery gate (without UI journeys)"
@@ -61,9 +60,6 @@ test-unit:
 
 test-ui:
 	$(MAKE) test TEST_ONLY=PickOneUITests
-
-test-ipad-ui:
-	$(MAKE) test TEST_ONLY=PickOneUITests/PickOneSmokeTests/testIPadNavigationInPortraitAndLandscape SIMULATOR_NAME='iPad (A16)'
 
 analyze:
 	xcodebuild analyze \

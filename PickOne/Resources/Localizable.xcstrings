@@ -1,1059 +1,2370 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "Another path.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Another path."
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ a release era you tend to enjoy." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ a release era you tend to enjoy."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Otro camino."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ una época de estreno que sueles disfrutar."
           }
         }
       }
     },
-    "Two other paths.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Two other paths."
+    "%@ and %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ and %@"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Otros dos caminos."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ y %@"
           }
         }
       }
     },
-    "Included with your subscription": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Included with your subscription"
+    "%@ to %@, which you %@ — %@." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ to %@, which you %@ — %@."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Incluida en tu suscripción"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ a %@, que %@ — %@."
           }
         }
       }
     },
-    "Saving...": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Saving..." } },
-        "es": { "stringUnit": { "state": "translated", "value": "Guardando…" } }
-      }
-    },
-    "Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pick"
+    "%@ your taste for %@." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ your taste for %@."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elegir"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ tu gusto por %@."
           }
         }
       }
     },
-    "Picked": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Picked"
+    "%@; both are from the %@s" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@; both are from the %@s"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elegida"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@; ambas son de los años %@"
           }
         }
       }
     },
-    "Pick %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pick %@"
+    "%@; their release eras are adjacent (%@s and %@s)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@; their release eras are adjacent (%@s and %@s)"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elegir %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@; sus épocas de estreno son cercanas (años %@ y %@)"
           }
         }
       }
     },
-    "Picked: %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Picked: %@"
+    "A small set of movies included with your services in Spain." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A small set of movies included with your services in Spain."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elegida: %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una pequeña selección de películas incluidas en tus servicios en España."
           }
         }
       }
     },
-    "Records your choice without marking the movie watched.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Records your choice without marking the movie watched."
+    "Already watched" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already watched"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registra tu elección sin marcar la película como vista."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya la he visto"
           }
         }
       }
     },
-    "Cancels this choice without changing watched status.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancels this choice without changing watched status."
+    "Already watched actions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already watched actions"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancela esta elección sin cambiar el estado de vista."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones de Ya la he visto"
           }
         }
       }
     },
-    "Saving your choice of %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Saving your choice of %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Guardando la elección de %@" } }
-      }
-    },
-    "Saving %@ as your choice instead of %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Saving %@ as your choice instead of %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Guardando %@ como elección en lugar de %@" } }
-      }
-    },
-    "Saving cancellation of %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Saving cancellation of %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Guardando la cancelación de %@" } }
-      }
-    },
-    "Your choice couldn't be cancelled. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Your choice couldn't be cancelled. Please try again." } },
-        "es": { "stringUnit": { "state": "translated", "value": "No se pudo cancelar tu elección. Inténtalo de nuevo." } }
-      }
-    },
-    "Retry saving your choice of %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Retry saving your choice of %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Reintentar guardar la elección de %@" } }
-      }
-    },
-    "Retry cancelling your choice of %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Retry cancelling your choice of %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Reintentar cancelar la elección de %@" } }
-      }
-    },
-    "Your choice couldn't be saved. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your choice couldn't be saved. Please try again."
+    "Already watched rate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already watched rate"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se ha podido guardar tu elección. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasa de películas ya vistas"
           }
         }
       }
     },
-    "You picked %@.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "You picked %@." } },
-        "es": { "stringUnit": { "state": "translated", "value": "Has elegido %@." } }
-      }
-    },
-    "You picked %@ instead of %@.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "You picked %@ instead of %@." } },
-        "es": { "stringUnit": { "state": "translated", "value": "Has elegido %@ en lugar de %@." } }
-      }
-    },
-    "Choice cancelled.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Choice cancelled." } },
-        "es": { "stringUnit": { "state": "translated", "value": "Elección cancelada." } }
-      }
-    },
-    "You have a Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "You have a Pick"
+    "Another path." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another path."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tienes una película elegida"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otro camino."
           }
         }
       }
     },
-    "Cancel Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancel Pick"
+    "Backed by strong ratings and broad viewer evidence." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backed by strong ratings and broad viewer evidence."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancelar elección"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avalada por buenas valoraciones y un amplio respaldo del público."
           }
         }
       }
     },
-    "Try again": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Try again"
+    "Cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reintentar"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         }
       }
     },
-    "Home": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Home"
+    "Cancel Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel Pick"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inicio"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar elección"
           }
         }
       }
     },
-    "Three for Tonight": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Three for Tonight"
+    "Cancelled Picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelled Picks"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tres para esta noche"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elecciones canceladas"
           }
         }
       }
     },
-    "A small set of movies included with your services in Spain.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A small set of movies included with your services in Spain."
+    "Cancels this choice without changing watched status." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancels this choice without changing watched status."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Una pequeña selección de películas incluidas en tus servicios en España."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancela esta elección sin cambiar el estado de vista."
           }
         }
       }
     },
-    "Finding tonight's picks...": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finding tonight's picks..."
+    "Choice cancelled." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choice cancelled."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Buscando películas para esta noche…"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elección cancelada."
           }
         }
       }
     },
-    "Couldn't load tonight's picks": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't load tonight's picks"
+    "Chosen with PickOne" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chosen with PickOne"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido cargar las recomendaciones"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegida con PickOne"
           }
         }
       }
     },
-    "Retry": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Retry"
+    "Completed measurement will be deleted. Active sessions, pending confirmations, PickOne badges, movies and preferences are preserved." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completed measurement will be deleted. Active sessions, pending confirmations, PickOne badges, movies and preferences are preserved."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reintentar"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se eliminará la medición completada. Se conservarán las sesiones activas, las confirmaciones pendientes, las insignias de PickOne, las películas y las preferencias."
           }
         }
       }
     },
-    "No picks available right now": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No picks available right now"
+    "Confirmed watched" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed watched"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No hay recomendaciones disponibles ahora"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visionados confirmados"
           }
         }
       }
     },
-    "No picks available tonight": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No picks available tonight"
+    "Confirmed watched per Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed watched per Pick"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No hay recomendaciones disponibles esta noche"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visionados confirmados por elección"
           }
         }
       }
     },
-    "No unseen movie currently meets every taste and availability rule.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No unseen movie currently meets every taste and availability rule."
+    "Couldn't load tonight's picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't load tonight's picks"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ahora mismo no hay películas sin ver que cumplan los criterios de gusto y disponibilidad."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido cargar las recomendaciones"
           }
         }
       }
     },
-    "No more picks available right now": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No more picks available right now"
+    "Couldn't load your movies" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't load your movies"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No hay más recomendaciones disponibles ahora"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido cargar tus películas"
           }
         }
       }
     },
-    "Give me three more": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Give me three more"
+    "Couldn't save feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't save feedback"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dame tres más"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido guardar tu opinión"
           }
         }
       }
     },
-    "Finding more...": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finding more..."
+    "Couldn't save your answer. Please try again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't save your answer. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Buscando más…"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido guardar tu respuesta. Inténtalo de nuevo."
           }
         }
       }
     },
-    "Review My movies": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Review My movies"
+    "Couldn't update tonight's picks. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't update tonight's picks. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Revisar Mis películas"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido actualizar las recomendaciones. Inténtalo de nuevo."
           }
         }
       }
     },
-    "Review streaming services": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Review streaming services"
+    "Decision funnel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decision funnel"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Revisar servicios de streaming"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etapas de decisión"
           }
         }
       }
     },
-    "Open movie details": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open movie details"
+    "Delete completed measurement?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete completed measurement?"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abrir detalles de la película"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Eliminar la medición completada?"
           }
         }
       }
     },
-    "Open movie details for %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open movie details for %@"
+    "Delete measurement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete measurement"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abrir detalles de %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar medición"
           }
         }
       }
     },
-    "Saved": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saved"
+    "Did you watch it?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Did you watch it?"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guardada"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿La viste?"
           }
         }
       }
     },
-    "Included with %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Included with %@"
+    "Didn't like it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Didn't like it"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Incluida en %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No me gustó"
           }
         }
       }
     },
-    "Couldn't save feedback": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't save feedback"
+    "Discovery Choice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discovery Choice"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se ha podido guardar tu opinión"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descubrimiento"
           }
         }
       }
     },
-    "Cancel": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancel"
+    "Distinct movies observed per session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distinct movies observed per session"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancelar"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Películas distintas observadas por sesión"
           }
         }
       }
     },
-    "Your feedback wasn't saved. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your feedback wasn't saved. Please try again."
+    "Exhausted results" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exhausted results"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se ha guardado tu opinión. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultados agotados"
           }
         }
       }
     },
-    "Saving feedback for %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saving feedback for %@"
+    "Expanded searches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded searches"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guardando opinión sobre %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Búsquedas ampliadas"
           }
         }
       }
     },
-    "More options for %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "More options for %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Más opciones para %@" } }
-      }
-    },
-    "Updating recommendations for %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": { "stringUnit": { "state": "translated", "value": "Updating recommendations for %@" } },
-        "es": { "stringUnit": { "state": "translated", "value": "Actualizando las recomendaciones de %@" } }
-      }
-    },
-    "Feedback for %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Feedback for %@"
+    "Export local measurement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export local measurement"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Opinión sobre %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exportar medición local"
           }
         }
       }
     },
-    "Rate": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rate"
+    "Feedback for %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback for %@"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Valorar"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opinión sobre %@"
           }
         }
       }
     },
-    "Love it": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Love it"
+    "Final Pick timing samples" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Final Pick timing samples"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Me encanta"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muestras de tiempo de la elección final"
           }
         }
       }
     },
-    "Like it": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Like it"
+    "Finding more..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding more..."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Me gusta"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando más…"
           }
         }
       }
     },
-    "It was okay": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "It was okay"
+    "Finding tonight's picks..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding tonight's picks..."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Está bien"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando películas para esta noche…"
           }
         }
       }
     },
-    "Didn't like it": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Didn't like it"
+    "First Pick timing samples" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Pick timing samples"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No me gustó"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muestras de tiempo de la primera elección"
           }
         }
       }
     },
-    "Already watched": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Already watched"
+    "Foreground decision time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foreground decision time"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ya la he visto"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo de decisión en primer plano"
           }
         }
       }
     },
-    "Not interested": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not interested"
+    "Give me three more" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give me three more"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No me interesa"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dame tres más"
           }
         }
       }
     },
-    "Safe Choice": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Safe Choice"
+    "Give me three more actions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Give me three more actions"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apuesta segura"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones de pedir tres más"
           }
         }
       }
     },
-    "Stretch Choice": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Stretch Choice"
+    "Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Algo diferente"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
           }
         }
       }
     },
-    "Discovery Choice": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Discovery Choice"
+    "Home recommendations" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home recommendations"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Descubrimiento"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recomendaciones de Inicio"
           }
         }
       }
     },
-    "Backed by strong ratings and broad viewer evidence.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Backed by strong ratings and broad viewer evidence."
+    "home.reason.generic.embedded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "based on movies you liked."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Avalada por buenas valoraciones y un amplio respaldo del público."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "basada en películas que te gustaron."
           }
         }
       }
     },
-    "Tonight's picks couldn't be loaded. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tonight's picks couldn't be loaded. Please try again."
+    "home.reason.generic.sentence" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Based on movies you liked."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido cargar las recomendaciones. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basada en películas que te gustaron."
           }
         }
       }
     },
-    "Recommendations updated.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recommendations updated."
+    "home.reason.matches.embedded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "matches"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recomendaciones actualizadas."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "encaja con"
           }
         }
       }
     },
-    "Couldn't update tonight's picks. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't update tonight's picks. Please try again."
+    "home.reason.matches.sentence" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido actualizar las recomendaciones. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encaja con"
           }
         }
       }
     },
-    "Your preferences couldn't be loaded. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your preferences couldn't be loaded. Please try again."
+    "home.reason.similar.embedded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "similar"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido cargar tus preferencias. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "similar"
           }
         }
       }
     },
-    "Tonight's picks couldn't be saved. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tonight's picks couldn't be saved. Please try again."
+    "home.reason.similar.sentence" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido guardar las recomendaciones. Inténtalo de nuevo."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar"
           }
         }
       }
     },
-    "Saved picks couldn't be recovered. Your other data is unchanged.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saved picks couldn't be recovered. Your other data is unchanged."
+    "I didn't watch it after all" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I didn't watch it after all"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido recuperar las recomendaciones guardadas. Tus otros datos no han cambiado."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Al final no la vi"
           }
         }
       }
     },
-    "We've checked more movies and revisited older suggestions, but couldn't find an unseen match we can confidently recommend from your services.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "We've checked more movies and revisited older suggestions, but couldn't find an unseen match we can confidently recommend from your services."
+    "Included with %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Included with %@"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hemos revisado más películas y sugerencias anteriores, pero no hemos encontrado una película sin ver de tus servicios que podamos recomendar con confianza."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incluida en %@"
           }
         }
       }
     },
-    "We couldn't find a different unseen match we can confidently recommend from your services. Your current picks are still available.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "We couldn't find a different unseen match we can confidently recommend from your services. Your current picks are still available."
+    "Included with your subscription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Included with your subscription"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No hemos encontrado otra película sin ver de tus servicios que podamos recomendar con confianza. Tus recomendaciones actuales siguen disponibles."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incluida en tu suscripción"
           }
         }
       }
     },
-    "We found only %lld strong matches right now.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "We found only %lld strong match right now."
+    "Includes the latest 1,000 retained recommendation searches. Search text is never recorded." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Includes the latest 1,000 retained recommendation searches. Search text is never recorded."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incluye las últimas 1000 búsquedas de recomendaciones conservadas. Nunca se registra el texto de búsqueda."
+          }
+        }
+      }
+    },
+    "It was okay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "It was okay"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Está bien"
+          }
+        }
+      }
+    },
+    "Like it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Like it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me gusta"
+          }
+        }
+      }
+    },
+    "liked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "liked"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "te gustó"
+          }
+        }
+      }
+    },
+    "Loading your movies..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading your movies..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando tus películas…"
+          }
+        }
+      }
+    },
+    "Local household diagnostics, not a statistical experiment. Completed history is kept for 180 days." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Local household diagnostics, not a statistical experiment. Completed history is kept for 180 days."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos locales del hogar, no un experimento estadístico. El historial completado se conserva durante 180 días."
+          }
+        }
+      }
+    },
+    "Love it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Love it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me encanta"
+          }
+        }
+      }
+    },
+    "loved" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "loved"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "te encantó"
+          }
+        }
+      }
+    },
+    "Mean search seconds" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mean search seconds"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segundos de media de búsqueda"
+          }
+        }
+      }
+    },
+    "Mean seconds to final Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mean seconds to final Pick"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segundos de media hasta la elección final"
+          }
+        }
+      }
+    },
+    "Mean seconds to first Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mean seconds to first Pick"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segundos de media hasta la primera elección"
+          }
+        }
+      }
+    },
+    "More options for %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More options for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más opciones para %@"
+          }
+        }
+      }
+    },
+    "Movies count once per session. Earlier sessions without observation evidence are excluded from this rate." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movies count once per session. Earlier sessions without observation evidence are excluded from this rate."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada película cuenta una vez por sesión. Las sesiones anteriores sin datos de observación se excluyen de esta tasa."
+          }
+        }
+      }
+    },
+    "My movies" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My movies"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mis películas"
+          }
+        }
+      }
+    },
+    "No local measurement yet." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No local measurement yet."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todavía no hay medición local."
+          }
+        }
+      }
+    },
+    "No more picks available right now" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No more picks available right now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay más recomendaciones disponibles ahora"
+          }
+        }
+      }
+    },
+    "No movies yet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No movies yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay películas"
+          }
+        }
+      }
+    },
+    "No picks available right now" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No picks available right now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay recomendaciones disponibles ahora"
+          }
+        }
+      }
+    },
+    "No picks available tonight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No picks available tonight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay recomendaciones disponibles esta noche"
+          }
+        }
+      }
+    },
+    "No reaction supplied" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No reaction supplied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin reacción"
+          }
+        }
+      }
+    },
+    "No unseen movie currently meets every taste and availability rule." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No unseen movie currently meets every taste and availability rule."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora mismo no hay películas sin ver que cumplan los criterios de gusto y disponibilidad."
+          }
+        }
+      }
+    },
+    "Not interested" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not interested"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No me interesa"
+          }
+        }
+      }
+    },
+    "Not now" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora no"
+          }
+        }
+      }
+    },
+    "Not watched after all" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not watched after all"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No vistas finalmente"
+          }
+        }
+      }
+    },
+    "Not yet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todavía no"
+          }
+        }
+      }
+    },
+    "Observed Decision Sets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Observed Decision Sets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecciones de recomendaciones observadas"
+          }
+        }
+      }
+    },
+    "Open movie details" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open movie details"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir detalles de la película"
+          }
+        }
+      }
+    },
+    "Open movie details for %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open movie details for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir detalles de %@"
+          }
+        }
+      }
+    },
+    "Opens %@ to search for %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opens %@ to search for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre %1$@ y busca %2$@"
+          }
+        }
+      }
+    },
+    "Pending confirmations" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pending confirmations"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmaciones pendientes"
+          }
+        }
+      }
+    },
+    "Pending Picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pending Picks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elecciones pendientes"
+          }
+        }
+      }
+    },
+    "Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir"
+          }
+        }
+      }
+    },
+    "Pick %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegir %@"
+          }
+        }
+      }
+    },
+    "Pick rate per session" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick rate per session"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tasa de elección por sesión"
+          }
+        }
+      }
+    },
+    "Picked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picked"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegida"
+          }
+        }
+      }
+    },
+    "Picked: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picked: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elegida: %@"
+          }
+        }
+      }
+    },
+    "PickOne" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickOne"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PickOne"
+          }
+        }
+      }
+    },
+    "Picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Picks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elecciones"
+          }
+        }
+      }
+    },
+    "Pilot insights" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilot insights"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos del piloto"
+          }
+        }
+      }
+    },
+    "Pilot insights are unavailable. Your movies and preferences are unaffected." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilot insights are unavailable. Your movies and preferences are unaffected."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los datos del piloto no están disponibles. Tus películas y preferencias no se ven afectadas."
+          }
+        }
+      }
+    },
+    "Postponements" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postponements"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplazamientos"
+          }
+        }
+      }
+    },
+    "Rate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valorar"
+          }
+        }
+      }
+    },
+    "Recommendation searches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommendation searches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Búsquedas de recomendaciones"
+          }
+        }
+      }
+    },
+    "Recommendation sessions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommendation sessions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones de recomendaciones"
+          }
+        }
+      }
+    },
+    "Recommendations updated." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommendations updated."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recomendaciones actualizadas."
+          }
+        }
+      }
+    },
+    "Records your choice without marking the movie watched." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Records your choice without marking the movie watched."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra tu elección sin marcar la película como vista."
+          }
+        }
+      }
+    },
+    "Replaced Picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Replaced Picks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elecciones sustituidas"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        }
+      }
+    },
+    "Retry cancelling your choice of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry cancelling your choice of %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar cancelar la elección de %@"
+          }
+        }
+      }
+    },
+    "Retry saving your choice of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry saving your choice of %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar guardar la elección de %@"
+          }
+        }
+      }
+    },
+    "Retryable failures" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retryable failures"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errores que permiten reintentar"
+          }
+        }
+      }
+    },
+    "Review My movies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review My movies"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisar Mis películas"
+          }
+        }
+      }
+    },
+    "Review streaming services" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review streaming services"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisar servicios de streaming"
+          }
+        }
+      }
+    },
+    "Safe Choice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safe Choice"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apuesta segura"
+          }
+        }
+      }
+    },
+    "Saved" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardada"
+          }
+        }
+      }
+    },
+    "Saved for later, and %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved for later, and %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardada para más adelante, y %@"
+          }
+        }
+      }
+    },
+    "Saved picks couldn't be recovered. Your other data is unchanged." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved picks couldn't be recovered. Your other data is unchanged."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido recuperar las recomendaciones guardadas. Tus otros datos no han cambiado."
+          }
+        }
+      }
+    },
+    "Saving %@ as your choice instead of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving %@ as your choice instead of %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando %@ como elección en lugar de %@"
+          }
+        }
+      }
+    },
+    "Saving cancellation of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving cancellation of %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando la cancelación de %@"
+          }
+        }
+      }
+    },
+    "Saving feedback for %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving feedback for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando opinión sobre %@"
+          }
+        }
+      }
+    },
+    "Saving your answer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving your answer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando tu respuesta"
+          }
+        }
+      }
+    },
+    "Saving your choice of %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving your choice of %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando la elección de %@"
+          }
+        }
+      }
+    },
+    "Saving..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardando…"
+          }
+        }
+      }
+    },
+    "Searches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Búsquedas"
+          }
+        }
+      }
+    },
+    "Sessions confirmed watched" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessions confirmed watched"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones con visionado confirmado"
+          }
+        }
+      }
+    },
+    "Sessions with a Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessions with a Pick"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones con una elección"
+          }
+        }
+      }
+    },
+    "Sessions with observation evidence" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessions with observation evidence"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones con datos de observación"
+          }
+        }
+      }
+    },
+    "shares %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shares %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "comparte %@"
+          }
+        }
+      }
+    },
+    "Stretch Choice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stretch Choice"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algo diferente"
+          }
+        }
+      }
+    },
+    "The action could not be completed. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The action could not be completed. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo completar la acción. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Three for Tonight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three for Tonight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tres para esta noche"
+          }
+        }
+      }
+    },
+    "Tonight's picks couldn't be loaded. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonight's picks couldn't be loaded. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido cargar las recomendaciones. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Tonight's picks couldn't be saved. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tonight's picks couldn't be saved. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido guardar las recomendaciones. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Try again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try again"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        }
+      }
+    },
+    "Two other paths." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Two other paths."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otros dos caminos."
+          }
+        }
+      }
+    },
+    "Unavailable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unavailable"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No disponible"
+          }
+        }
+      }
+    },
+    "Unavailable timing is excluded from averages." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unavailable timing is excluded from averages."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los tiempos no disponibles se excluyen de las medias."
+          }
+        }
+      }
+    },
+    "Updating recommendations for %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updating recommendations for %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizando las recomendaciones de %@"
+          }
+        }
+      }
+    },
+    "Usable results" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usable results"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resultados utilizables"
+          }
+        }
+      }
+    },
+    "Viewing satisfaction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viewing satisfaction"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Satisfacción con el visionado"
+          }
+        }
+      }
+    },
+    "Watch on %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watch on %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver en %@"
+          }
+        }
+      }
+    },
+    "Watched" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watched"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vista"
+          }
+        }
+      }
+    },
+    "We couldn't find a different unseen match we can confidently recommend from your services. Your current picks are still available." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We couldn't find a different unseen match we can confidently recommend from your services. Your current picks are still available."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hemos encontrado otra película sin ver de tus servicios que podamos recomendar con confianza. Tus recomendaciones actuales siguen disponibles."
+          }
+        }
+      }
+    },
+    "We found only %lld strong matches right now." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "We found only %lld strong match right now."
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "We found only %lld strong matches right now."
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "We found only %lld strong matches right now."
                 }
               }
             }
           }
         },
-        "es": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Solo hemos encontrado %lld buena opción ahora mismo."
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Solo hemos encontrado %lld buena opción ahora mismo."
                 }
               },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Solo hemos encontrado %lld buenas opciones ahora mismo."
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Solo hemos encontrado %lld buenas opciones ahora mismo."
                 }
               }
             }
@@ -1061,1381 +2372,222 @@
         }
       }
     },
-    "Saved for later, and %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saved for later, and %@"
+    "We've checked more movies and revisited older suggestions, but couldn't find an unseen match we can confidently recommend from your services." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We've checked more movies and revisited older suggestions, but couldn't find an unseen match we can confidently recommend from your services."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guardada para más adelante, y %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hemos revisado más películas y sugerencias anteriores, pero no hemos encontrado una película sin ver de tus servicios que podamos recomendar con confianza."
           }
         }
       }
     },
-    "loved": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "loved"
+    "What did you think?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What did you think?"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "te encantó"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué te pareció?"
           }
         }
       }
     },
-    "liked": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "liked"
+    "Yes, I watched it" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yes, I watched it"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "te gustó"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sí, la vi"
           }
         }
       }
     },
-    "%@; both are from the %@s": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@; both are from the %@s"
+    "You have a Pick" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You have a Pick"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@; ambas son de los años %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienes una película elegida"
           }
         }
       }
     },
-    "%@; their release eras are adjacent (%@s and %@s)": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@; their release eras are adjacent (%@s and %@s)"
+    "You picked %@ instead of %@." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You picked %@ instead of %@."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@; sus épocas de estreno son cercanas (años %@ y %@)"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has elegido %@ en lugar de %@."
           }
         }
       }
     },
-    "%@ to %@, which you %@ — %@.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ to %@, which you %@ — %@."
+    "You picked %@." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You picked %@."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ a %@, que %@ — %@."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has elegido %@."
           }
         }
       }
     },
-    "shares %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "shares %@"
+    "Your choice couldn't be cancelled. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your choice couldn't be cancelled. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "comparte %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo cancelar tu elección. Inténtalo de nuevo."
           }
         }
       }
     },
-    "%@ your taste for %@.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ your taste for %@."
+    "Your choice couldn't be saved. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your choice couldn't be saved. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ tu gusto por %@."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha podido guardar tu elección. Inténtalo de nuevo."
           }
         }
       }
     },
-    "%@ a release era you tend to enjoy.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ a release era you tend to enjoy."
+    "Your feedback wasn't saved. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your feedback wasn't saved. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ una época de estreno que sueles disfrutar."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se ha guardado tu opinión. Inténtalo de nuevo."
           }
         }
       }
     },
-    "%@ and %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ and %@"
+    "Your movies couldn't be loaded. Please try again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your movies couldn't be loaded. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ y %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido cargar tus películas. Inténtalo de nuevo."
           }
         }
       }
     },
-    "home.reason.generic.sentence": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Based on movies you liked."
+    "Your picked movie" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your picked movie"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Basada en películas que te gustaron."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La película que elegiste"
           }
         }
       }
     },
-    "home.reason.generic.embedded": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "based on movies you liked."
+    "Your preferences couldn't be loaded. Please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your preferences couldn't be loaded. Please try again."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "basada en películas que te gustaron."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se han podido cargar tus preferencias. Inténtalo de nuevo."
           }
         }
       }
     },
-    "home.reason.similar.sentence": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Similar"
+    "Your rated, watched, and not interested movies will appear here." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your rated, watched, and not interested movies will appear here."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Similar"
-          }
-        }
-      }
-    },
-    "home.reason.similar.embedded": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "similar"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "similar"
-          }
-        }
-      }
-    },
-    "home.reason.matches.sentence": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Matches"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Encaja con"
-          }
-        }
-      }
-    },
-    "home.reason.matches.embedded": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "matches"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "encaja con"
-          }
-        }
-      }
-    },
-    "What did you think?": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "What did you think?"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "¿Qué te pareció?"
-          }
-        }
-      }
-    },
-    "Did you watch it?": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Did you watch it?"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "¿La viste?"
-          }
-        }
-      }
-    },
-    "Yes, I watched it": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Yes, I watched it"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sí, la vi"
-          }
-        }
-      }
-    },
-    "Not yet": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not yet"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todavía no"
-          }
-        }
-      }
-    },
-    "I didn't watch it after all": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "I didn't watch it after all"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Al final no la vi"
-          }
-        }
-      }
-    },
-    "Not now": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not now"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ahora no"
-          }
-        }
-      }
-    },
-    "Pending confirmations": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pending confirmations"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmaciones pendientes"
-          }
-        }
-      }
-    },
-    "Chosen with PickOne": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chosen with PickOne"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elegida con PickOne"
-          }
-        }
-      }
-    },
-    "PickOne": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "PickOne"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "PickOne"
-          }
-        }
-      }
-    },
-    "Your picked movie": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your picked movie"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La película que elegiste"
-          }
-        }
-      }
-    },
-    "Couldn't save your answer. Please try again.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't save your answer. Please try again."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se ha podido guardar tu respuesta. Inténtalo de nuevo."
-          }
-        }
-      }
-    },
-    "Saving your answer": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saving your answer"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guardando tu respuesta"
-          }
-        }
-      }
-    },
-    "My movies": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "My movies"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mis películas"
-          }
-        }
-      }
-    },
-    "Loading your movies...": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Loading your movies..."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cargando tus películas…"
-          }
-        }
-      }
-    },
-    "No movies yet": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No movies yet"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aún no hay películas"
-          }
-        }
-      }
-    },
-    "Your rated, watched, and not interested movies will appear here.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your rated, watched, and not interested movies will appear here."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aquí aparecerán las películas que has valorado, visto o marcado como no interesantes."
-          }
-        }
-      }
-    },
-    "Couldn't load your movies": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couldn't load your movies"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido cargar tus películas"
-          }
-        }
-      }
-    },
-    "Your movies couldn't be loaded. Please try again.": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your movies couldn't be loaded. Please try again."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se han podido cargar tus películas. Inténtalo de nuevo."
-          }
-        }
-      }
-    },
-    "Watched": {
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Watched"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vista"
-          }
-        }
-      }
-    },
-    "Pilot insights": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pilot insights"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Datos del piloto"
-          }
-        }
-      }
-    },
-    "Local household diagnostics, not a statistical experiment. Completed history is kept for 180 days.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Local household diagnostics, not a statistical experiment. Completed history is kept for 180 days."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Datos locales del hogar, no un experimento estadístico. El historial completado se conserva durante 180 días."
-          }
-        }
-      }
-    },
-    "Pilot insights are unavailable. Your movies and preferences are unaffected.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pilot insights are unavailable. Your movies and preferences are unaffected."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Los datos del piloto no están disponibles. Tus películas y preferencias no se ven afectadas."
-          }
-        }
-      }
-    },
-    "Export local measurement": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Export local measurement"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exportar medición local"
-          }
-        }
-      }
-    },
-    "Delete measurement": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete measurement"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eliminar medición"
-          }
-        }
-      }
-    },
-    "The action could not be completed. Please try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The action could not be completed. Please try again."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No se pudo completar la acción. Inténtalo de nuevo."
-          }
-        }
-      }
-    },
-    "Completed measurement will be deleted. Active sessions, pending confirmations, PickOne badges, movies and preferences are preserved.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Completed measurement will be deleted. Active sessions, pending confirmations, PickOne badges, movies and preferences are preserved."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Se eliminará la medición completada. Se conservarán las sesiones activas, las confirmaciones pendientes, las insignias de PickOne, las películas y las preferencias."
-          }
-        }
-      }
-    },
-    "No local measurement yet.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No local measurement yet."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todavía no hay medición local."
-          }
-        }
-      }
-    },
-    "Decision funnel": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Decision funnel"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Etapas de decisión"
-          }
-        }
-      }
-    },
-    "Recommendation sessions": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recommendation sessions"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sesiones de recomendaciones"
-          }
-        }
-      }
-    },
-    "Sessions with a Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sessions with a Pick"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sesiones con una elección"
-          }
-        }
-      }
-    },
-    "Sessions confirmed watched": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sessions confirmed watched"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sesiones con visionado confirmado"
-          }
-        }
-      }
-    },
-    "Picks": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Picks"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elecciones"
-          }
-        }
-      }
-    },
-    "Confirmed watched": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmed watched"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Visionados confirmados"
-          }
-        }
-      }
-    },
-    "Pick rate per session": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pick rate per session"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tasa de elección por sesión"
-          }
-        }
-      }
-    },
-    "Confirmed watched per Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Confirmed watched per Pick"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Visionados confirmados por elección"
-          }
-        }
-      }
-    },
-    "Pending Picks": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pending Picks"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elecciones pendientes"
-          }
-        }
-      }
-    },
-    "Replaced Picks": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Replaced Picks"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elecciones sustituidas"
-          }
-        }
-      }
-    },
-    "Cancelled Picks": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancelled Picks"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Elecciones canceladas"
-          }
-        }
-      }
-    },
-    "Not watched after all": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not watched after all"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No vistas finalmente"
-          }
-        }
-      }
-    },
-    "Postponements": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Postponements"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aplazamientos"
-          }
-        }
-      }
-    },
-    "Viewing satisfaction": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Viewing satisfaction"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Satisfacción con el visionado"
-          }
-        }
-      }
-    },
-    "No reaction supplied": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No reaction supplied"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sin reacción"
-          }
-        }
-      }
-    },
-    "Foreground decision time": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Foreground decision time"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiempo de decisión en primer plano"
-          }
-        }
-      }
-    },
-    "Mean seconds to first Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mean seconds to first Pick"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Segundos de media hasta la primera elección"
-          }
-        }
-      }
-    },
-    "First Pick timing samples": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "First Pick timing samples"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Muestras de tiempo de la primera elección"
-          }
-        }
-      }
-    },
-    "Mean seconds to final Pick": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mean seconds to final Pick"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Segundos de media hasta la elección final"
-          }
-        }
-      }
-    },
-    "Final Pick timing samples": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Final Pick timing samples"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Muestras de tiempo de la elección final"
-          }
-        }
-      }
-    },
-    "Unavailable timing is excluded from averages.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unavailable timing is excluded from averages."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Los tiempos no disponibles se excluyen de las medias."
-          }
-        }
-      }
-    },
-    "Observed Decision Sets": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Observed Decision Sets"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecciones de recomendaciones observadas"
-          }
-        }
-      }
-    },
-    "Give me three more actions": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Give me three more actions"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Acciones de pedir tres más"
-          }
-        }
-      }
-    },
-    "Home recommendations": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Home recommendations"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recomendaciones de Inicio"
-          }
-        }
-      }
-    },
-    "Sessions with observation evidence": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sessions with observation evidence"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sesiones con datos de observación"
-          }
-        }
-      }
-    },
-    "Distinct movies observed per session": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Distinct movies observed per session"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Películas distintas observadas por sesión"
-          }
-        }
-      }
-    },
-    "Already watched actions": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Already watched actions"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Acciones de Ya la he visto"
-          }
-        }
-      }
-    },
-    "Already watched rate": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Already watched rate"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tasa de películas ya vistas"
-          }
-        }
-      }
-    },
-    "Movies count once per session. Earlier sessions without observation evidence are excluded from this rate.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Movies count once per session. Earlier sessions without observation evidence are excluded from this rate."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cada película cuenta una vez por sesión. Las sesiones anteriores sin datos de observación se excluyen de esta tasa."
-          }
-        }
-      }
-    },
-    "Recommendation searches": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recommendation searches"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Búsquedas de recomendaciones"
-          }
-        }
-      }
-    },
-    "Searches": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Searches"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Búsquedas"
-          }
-        }
-      }
-    },
-    "Expanded searches": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Expanded searches"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Búsquedas ampliadas"
-          }
-        }
-      }
-    },
-    "Usable results": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Usable results"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Resultados utilizables"
-          }
-        }
-      }
-    },
-    "Exhausted results": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exhausted results"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Resultados agotados"
-          }
-        }
-      }
-    },
-    "Retryable failures": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Retryable failures"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Errores que permiten reintentar"
-          }
-        }
-      }
-    },
-    "Mean search seconds": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mean search seconds"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Segundos de media de búsqueda"
-          }
-        }
-      }
-    },
-    "Includes the latest 1,000 retained recommendation searches. Search text is never recorded.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Includes the latest 1,000 retained recommendation searches. Search text is never recorded."
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Incluye las últimas 1000 búsquedas de recomendaciones conservadas. Nunca se registra el texto de búsqueda."
-          }
-        }
-      }
-    },
-    "Unavailable": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unavailable"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No disponible"
-          }
-        }
-      }
-    },
-    "Delete completed measurement?": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Delete completed measurement?"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "¿Eliminar la medición completada?"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aquí aparecerán las películas que has valorado, visto o marcado como no interesantes."
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

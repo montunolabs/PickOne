@@ -171,8 +171,11 @@ private extension AppContainer {
         viewingDecisions: any ViewingDecisionRepository
     ) -> HomeDecisionViewModel {
         let pickFeedbackSleep: @Sendable (Duration) async throws -> Void = { duration in
+            // CI simulators are slow enough that a 3-second notice can vanish
+            // before a UI journey looks for it. Keep it longer under UI tests.
+            let uiTestingDuration = max(duration, .seconds(6))
             try await Task.sleep(for: AppConfiguration.holdsHomePickNoticeForUITests
-                ? .seconds(20) : duration)
+                ? .seconds(20) : AppConfiguration.isUITesting ? uiTestingDuration : duration)
         }
         return HomeDecisionViewModel(
             threeForTonight: homeUseCase,

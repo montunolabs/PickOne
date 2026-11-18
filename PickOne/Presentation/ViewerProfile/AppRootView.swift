@@ -114,7 +114,7 @@ private struct ViewerProfileRecoveryView: View {
         switch reason {
             case .unsupportedVersion: ViewerProfileCopy.unsupportedTitle
             case .corruptData: ViewerProfileCopy.corruptTitle
-            case .loadFailed: "Preferences couldn't be loaded"
+            case .loadFailed: String(localized: "Preferences couldn't be loaded")
         }
     }
 

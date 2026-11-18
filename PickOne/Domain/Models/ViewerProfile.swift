@@ -239,12 +239,12 @@ enum CalibrationReaction: String, CaseIterable, Equatable, Sendable {
 
     var title: String {
         switch self {
-            case .loveIt: "Love it"
-            case .likeIt: "Like it"
-            case .itWasOkay: "It was okay"
-            case .didNotLikeIt: "Didn't like it"
-            case .haveNotSeenIt: "Haven't seen it"
-            case .doNotKnowIt: "Don't know it"
+            case .loveIt: String(localized: "Love it")
+            case .likeIt: String(localized: "Like it")
+            case .itWasOkay: String(localized: "It was okay")
+            case .didNotLikeIt: String(localized: "Didn't like it")
+            case .haveNotSeenIt: String(localized: "Haven't seen it")
+            case .doNotKnowIt: String(localized: "Don't know it")
         }
     }
 

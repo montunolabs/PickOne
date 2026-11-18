@@ -1,22 +1,29 @@
 import Foundation
 
 enum ViewerProfileCopy {
-    static let serviceTitle = "Streaming services"
-    static let region = "Availability region: Spain"
-    static let serviceGuidance = "Choose the services where you can watch movies without paying extra."
-    static let progress = "8 taste signals help us start with more confidence."
-    static let lowSignalTitle = "Want to rate a few more?"
-    static let lowSignalBody = "We can start broadly with what you have told us, or you can rate a few more movies first."
-    static let resetTitle = "Reset preferences?"
-    static let resetBody = "This removes your streaming services and movie calibration. Your Watchlist and Search History will stay."
-    static let unsupportedTitle = "Preferences need to be reset"
+    static let serviceTitle = String(localized: "Streaming services")
+    static let region = String(localized: "Availability region: Spain")
+    static let serviceGuidance =
+        String(localized: "Choose the services where you can watch movies without paying extra.")
+    static let progress = String(localized: "8 taste signals help us start with more confidence.")
+    static let lowSignalTitle = String(localized: "Want to rate a few more?")
+    static let lowSignalBody =
+        String(localized: "We can start broadly with what you have told us, or you can rate a few more movies first.")
+    static let resetTitle = String(localized: "Reset preferences?")
+    static let resetBody =
+        String(
+            localized: "This removes your streaming services and movie calibration. Your Watchlist and Search History will stay."
+        )
+    static let unsupportedTitle = String(localized: "Preferences need to be reset")
     static let unsupportedBody =
-        "This saved movie data version isn't supported by this build. " +
-        "You can try again or reset all movie data."
-    static let corruptTitle = "Preferences couldn't be read"
+        String(
+            localized: "This saved movie data version isn't supported by this build. You can try again or reset all movie data."
+        )
+    static let corruptTitle = String(localized: "Preferences couldn't be read")
     static let corruptBody =
-        "Your saved movie data is damaged and couldn't be recovered. " +
-        "You can try again or reset all movie data."
+        String(
+            localized: "Your saved movie data is damaged and couldn't be recovered. You can try again or reset all movie data."
+        )
 }
 
 enum AppRootViewState: Equatable {

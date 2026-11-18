@@ -17,9 +17,9 @@ enum MovieAvailabilityViewState: Equatable {
     case ineligible
     case unknown
 
-    static let title = "Available on"
-    static let ineligibleMessage = "Not shown as included with your services."
-    static let unknownMessage = "We couldn't verify availability."
-    static let attribution = "Availability data from JustWatch · may change"
-    static let handoffTitle = "View playback options on TMDB"
+    static let title = String(localized: "Available on")
+    static let ineligibleMessage = String(localized: "Not shown as included with your services.")
+    static let unknownMessage = String(localized: "We couldn't verify availability.")
+    static let attribution = String(localized: "Availability data from JustWatch · may change")
+    static let handoffTitle = String(localized: "View playback options on TMDB")
 }

@@ -157,10 +157,10 @@ private struct MovieReactionButton: View {
 private extension MovieReaction {
     var feedbackTitle: String {
         switch self {
-            case .loveIt: "Love it"
-            case .likeIt: "Like it"
-            case .itWasOkay: "It was okay"
-            case .didNotLikeIt: "Didn't like it"
+            case .loveIt: String(localized: "Love it")
+            case .likeIt: String(localized: "Like it")
+            case .itWasOkay: String(localized: "It was okay")
+            case .didNotLikeIt: String(localized: "Didn't like it")
         }
     }
 }

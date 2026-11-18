@@ -55,7 +55,7 @@ struct MyMoviesView: View {
                 .listStyle(.plain)
             case let .failure(message):
                 EmptyStateView(
-                    title: "Couldn't load your movies",
+                    title: String(localized: "Couldn't load your movies"),
                     message: message,
                     actionTitle: "Retry",
                     action: { Task { await model.load() } }

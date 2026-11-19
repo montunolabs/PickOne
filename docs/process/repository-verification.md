@@ -41,9 +41,11 @@ script, or other non-Markdown changes, it also runs unit tests, static analysis,
 and the Release bundle check. Only changes whose entire diff consists of `.md`
 files skip those app build and test steps. Unknown diffs run the full gate.
 
-The separate `iOS UI journeys` workflow runs on `develop` on weekdays and is
-available through GitHub Actions → **iOS UI journeys** → **Run workflow** for a
-selected branch. Its iPhone and iPad jobs run in parallel. iPhone runs the
+The separate `iOS UI journeys` workflow runs on every PR that changes anything
+other than Markdown, on `develop` on weekdays, and on demand through GitHub
+Actions → **iOS UI journeys** → **Run workflow**. A failing journey blocks the
+merge like any other check. UI journeys never read live TMDB data: fixture
+movies keep their fixture titles. Its iPhone and iPad jobs run in parallel. iPhone runs the
 complete UI-test target; iPad runs only the focused portrait/landscape journey.
 Run it on a PR branch before merge when the change affects a critical
 end-to-end journey, onboarding, or supported-device navigation. The PR quality

@@ -2,7 +2,9 @@ SHELL := /bin/bash
 
 PROJECT := PickOne.xcodeproj
 SCHEME := PickOne
-SIMULATOR_NAME ?= iPhone 17 Pro
+# Prefer the CI device; fall back to the newest installed iPhone Pro so the
+# targets keep working when Xcode ships a new simulator line-up.
+SIMULATOR_NAME ?= $(shell Scripts/default-simulator.sh)
 SIMULATOR_OS ?= latest
 TEST_DESTINATION := platform=iOS Simulator,name=$(SIMULATOR_NAME),OS=$(SIMULATOR_OS)
 DERIVED_DATA ?= $(CURDIR)/.derivedData

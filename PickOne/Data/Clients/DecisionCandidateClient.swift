@@ -41,7 +41,10 @@ extension TMDBDecisionCandidateClient: DecisionCandidateClient {
             "include_video": "false",
             "language": "es-ES",
             "page": String(page),
-            "region": context.region.code,
+            // No `region`: it does not change which movies are returned, but
+            // it makes TMDB report the regional release date, so Home showed a
+            // different year than Movie Detail. `watch_region` scopes
+            // availability.
             "sort_by": "popularity.desc",
             "watch_region": context.region.code,
             "with_watch_monetization_types": "flatrate",

@@ -37,7 +37,7 @@ struct TMDBDecisionCandidateClientTests {
         #expect(request.url?.path == "/3/discover/movie")
         #expect(request.value(forHTTPHeaderField: "Authorization") == "Bearer test-token")
         #expect(values["language"] == "es-ES")
-        #expect(values["region"] == "ES")
+        #expect(values["region"] == nil, "region would return regional release dates")
         #expect(values["watch_region"] == "ES")
         #expect(values["page"] == "4")
         #expect(values["include_adult"] == "false")

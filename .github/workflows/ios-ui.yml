@@ -2,6 +2,10 @@ name: iOS UI journeys
 
 on:
   workflow_dispatch:
+  # UI journeys gate code PRs: a broken end-to-end flow must not reach develop.
+  pull_request:
+    paths-ignore:
+      - "**.md"
   schedule:
     - cron: "0 3 * * 1-5"
 

@@ -35,10 +35,14 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    NavigationLink("Pilot insights") {
-                        PilotInsightsView(model: pilotInsightsModel)
-                    }
-                    .accessibilityIdentifier("pilot-insights-link")
+                    // Local pilot measurement is a development tool, not a
+                    // feature of the published app.
+                    #if DEBUG
+                        NavigationLink("Pilot insights") {
+                            PilotInsightsView(model: pilotInsightsModel)
+                        }
+                        .accessibilityIdentifier("pilot-insights-link")
+                    #endif
                     NavigationLink("About") {
                         AboutView(showsDoneButton: false)
                     }

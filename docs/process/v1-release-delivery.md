@@ -21,6 +21,10 @@ one person could clear, while no distributable build existed. The process was
 sized for a team; the project has one Product Owner and agents. The goal now
 is a shipped v1.0, validated on real builds rather than PR by PR.
 
+PickOne is a personal project with no testers: the Product Owner is the only
+pre-launch user, TestFlight is internal only, and real users arrive through the
+App Store.
+
 ## V1.0 scope
 
 **In:** iPhone; movies; Spain availability; English and Spanish; onboarding,
@@ -30,7 +34,8 @@ release assets, privacy policy, Archive, and TestFlight.
 
 **Out (deferred, not rejected):** iPad support and its M9 quality bar; the
 Detail visual redesign; M9 Home PR4's acceptance matrix; the Discover tab and
-standalone Search tab; TV series; any LLM, backend, account, or remote
+standalone Search tab; Similar movies on Movie Detail; Pilot insights outside
+Debug builds; TV series; any LLM, backend, account, or remote
 analytics; further persistence hardening.
 
 M9 Home closes at PR3 (#71). Issues #57, #64 and #65 are closed against this
@@ -40,13 +45,16 @@ decision instead of the original acceptance matrix.
 
 1. Green baseline on the current Xcode: UI journeys, simulator names in
    `Makefile` and CI, the release-year inconsistency, UI smoke in the PR gate.
-2. Scope cut: iPhone-only target, three tabs.
+2. Scope cut: iPhone-only target, four tabs, Similar movies hidden, Pilot
+   insights Debug-only.
 3. Complete English/Spanish localization.
 4. "Watch on <service>" handoff after Pick.
-5. Release readiness: icon, privacy policy, version `1.0.0`, Archive,
+5. Product Owner check on their own iPhone of the merged steps 1–4. Release
+   readiness does not start without their OK.
+6. Release readiness: icon, privacy policy, version `1.0.0`, Archive,
    TestFlight.
-6. One to two weeks of real household use on the TestFlight build, then App
-   Store submission.
+7. One to two weeks of the Product Owner's own use on the TestFlight build,
+   then App Store submission.
 
 ## Merge gate
 

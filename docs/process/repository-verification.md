@@ -28,7 +28,6 @@ SwiftFormat and SwiftLint environments declared in `.pre-commit-config.yaml`.
 - `make quality` runs all configured pre-commit checks.
 - `make test-unit` runs the full `PickOneTests` target on iPhone.
 - `make test-ui` runs all `PickOneUITests` journeys on iPhone.
-- `make test-ipad-ui` runs the focused iPad navigation journey.
 - `make test` runs both test targets on iPhone when a full local run is useful.
 - `make analyze` runs Xcode static analysis.
 - `make build-release` builds and inspects the unsigned Release application.
@@ -45,8 +44,8 @@ The separate `iOS UI journeys` workflow runs on every PR that changes anything
 other than Markdown, on `develop` on weekdays, and on demand through GitHub
 Actions → **iOS UI journeys** → **Run workflow**. A failing journey blocks the
 merge like any other check. UI journeys never read live TMDB data: fixture
-movies keep their fixture titles. Its iPhone and iPad jobs run in parallel. iPhone runs the
-complete UI-test target; iPad runs only the focused portrait/landscape journey.
+movies keep their fixture titles.
+It runs the complete UI-test target on iPhone; v1.0 does not support iPad.
 Run it on a PR branch before merge when the change affects a critical
 end-to-end journey, onboarding, or supported-device navigation. The PR quality
 check remains the required automated merge gate; the scheduled UI result is a
@@ -56,15 +55,6 @@ Both workflows initialize CoreSimulator with
 `Scripts/prepare-ci-simulator.sh`, resolve the iOS runtime matching the active
 Xcode SDK, and target the booted device by identifier. This avoids depending
 on an intermittently missing hosted-runner device registration.
-
-The equivalent focused local iPad check is:
-
-```sh
-make test-ipad-ui
-```
-
-This is a functional navigation baseline, not approval of every iPad layout or
-accessibility state. Milestone 9 must define and validate those separately.
 
 PickOne deliberately applies formatting and lint to the complete repository
 rather than only changed Swift files. The codebase is small enough to avoid

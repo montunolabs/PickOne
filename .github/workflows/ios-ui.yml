@@ -29,8 +29,6 @@ jobs:
         include:
           - device: iPhone 17 Pro
             test_selector: PickOneUITests
-          - device: iPad (A16)
-            test_selector: PickOneUITests/PickOneSmokeTests/testIPadNavigationInPortraitAndLandscape
 
     steps:
       - uses: actions/checkout@v6

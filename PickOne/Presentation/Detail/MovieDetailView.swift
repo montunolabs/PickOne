@@ -157,15 +157,8 @@ struct MovieDetailView: View {
                                 }
                             }
                         )
-
-                        if !data.similar.isEmpty || data.isSimilarUnavailable {
-                            SimilarMoviesSection(
-                                movies: data.similar,
-                                pipeline: imagePipeline,
-                                isUnavailable: data.isSimilarUnavailable,
-                                navigationDependencies: navigationDependencies
-                            )
-                        }
+                        // TMDB "similar" results were often unrelated titles;
+                        // the section is hidden for v1.0.
                     }
                     .padding()
             }

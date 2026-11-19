@@ -164,61 +164,6 @@ final class HomeCompositionInteractionTests: XCTestCase {
     }
 
     @MainActor
-    func testWideIPadLandscapePlacesHeroBesideAlternatives() throws {
-        try XCTSkipUnless(UIDevice.current.userInterfaceIdiom == .pad)
-        XCUIDevice.shared.orientation = .landscapeLeft
-        defer { XCUIDevice.shared.orientation = .portrait }
-        let app = launchComposition(
-            backdropArgument: "-ui-testing-home-dark-backdrop",
-            providerCount: 4,
-            referenceCopy: true,
-            language: "es",
-            locale: "es_ES"
-        )
-        defer { cleanComposition(app) }
-
-        let hero = app.buttons["home-recommendation-101"]
-        let stretch = app.buttons["home-recommendation-202"]
-        let discovery = app.buttons["home-recommendation-303"]
-        XCTAssertTrue(hero.waitForExistence(timeout: 15))
-        XCTAssertTrue(stretch.exists)
-        XCTAssertTrue(discovery.exists)
-        XCTAssertLessThan(hero.frame.maxX, stretch.frame.minX)
-        XCTAssertLessThanOrEqual(stretch.frame.maxX, app.frame.maxX)
-        XCTAssertLessThanOrEqual(discovery.frame.maxX, app.frame.maxX)
-        XCTAssertTrue(stretch.label.contains("Puñales por la espalda"))
-        XCTAssertTrue(discovery.label.contains("Ex Machina"))
-        let stretchPick = app.buttons["home-pick-202"]
-        let discoveryPick = app.buttons["home-pick-303"]
-        XCTAssertTrue(stretchPick.exists)
-        XCTAssertTrue(discoveryPick.exists)
-        XCTAssertLessThanOrEqual(stretchPick.frame.maxX, app.frame.maxX)
-        XCTAssertLessThanOrEqual(discoveryPick.frame.maxX, app.frame.maxX)
-        XCTAssertLessThan(stretch.frame.maxY, discovery.frame.minY)
-        attachScreenshot(app, name: "Home reference es iPad landscape")
-    }
-
-    @MainActor
-    func testIPadPortraitKeepsReferenceCardsReadable() throws {
-        try XCTSkipUnless(UIDevice.current.userInterfaceIdiom == .pad)
-        XCUIDevice.shared.orientation = .portrait
-        let app = launchComposition(
-            backdropArgument: "-ui-testing-home-dark-backdrop",
-            providerCount: 4,
-            referenceCopy: true
-        )
-        defer { cleanComposition(app) }
-
-        let hero = app.buttons["home-recommendation-101"]
-        let stretch = app.buttons["home-recommendation-202"]
-        XCTAssertTrue(hero.waitForExistence(timeout: 15))
-        XCTAssertTrue(stretch.exists)
-        XCTAssertLessThan(hero.frame.maxY, stretch.frame.minY)
-        XCTAssertTrue(hero.label.contains("Arrival"))
-        attachScreenshot(app, name: "Home reference en iPad portrait")
-    }
-
-    @MainActor
     private func launchComposition(
         maximumDynamicType: Bool = false,
         brightPoster: Bool = false,

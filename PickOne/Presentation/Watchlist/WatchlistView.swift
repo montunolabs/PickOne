@@ -62,8 +62,8 @@ struct WatchlistView: View {
     private var emptyView: some View {
         VStack {
             EmptyStateView(
-                title: "Your watchlist is empty",
-                message: "Add movies from discovery or search to start building your list.",
+                title: String(localized: "Your watchlist is empty"),
+                message: String(localized: "Add movies from discovery or search to start building your list."),
                 actionTitle: nil,
                 action: nil
             )

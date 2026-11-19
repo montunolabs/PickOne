@@ -64,7 +64,7 @@ struct MovieDetailView: View {
                         .frame(maxWidth: .infinity, minHeight: 200)
                 case let .error(errorMessage):
                     EmptyStateView(
-                        title: "Couldn't load details",
+                        title: String(localized: "Couldn't load details"),
                         message: errorMessage,
                         actionTitle: "Retry",
                         action: { Task { await model.load() } }
@@ -133,7 +133,7 @@ struct MovieDetailView: View {
                         )
 
                         ExpandableText(
-                            title: "Synopsis",
+                            title: String(localized: "Synopsis"),
                             text: data.overview
                         )
 

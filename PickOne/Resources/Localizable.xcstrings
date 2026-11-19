@@ -103,6 +103,40 @@
         }
       }
     },
+    "%lld picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld picks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld elecciones"
+          }
+        }
+      }
+    },
+    "8 taste signals help us start with more confidence." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8 taste signals help us start with more confidence."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valorar 8 películas nos ayuda a acertar desde el principio."
+          }
+        }
+      }
+    },
     "A small set of movies included with your services in Spain." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -116,6 +150,91 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Una pequeña selección de películas incluidas en tus servicios en España."
+          }
+        }
+      }
+    },
+    "A tense sci-fi movie with emotional depth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tense sci-fi movie with emotional depth"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una película de ciencia ficción tensa y con profundidad emocional"
+          }
+        }
+      }
+    },
+    "About" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        }
+      }
+    },
+    "Add movies from discovery or search to start building your list." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add movies from discovery or search to start building your list."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añade películas desde la búsqueda para empezar tu lista."
+          }
+        }
+      }
+    },
+    "Add to Watchlist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to Watchlist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir a Mi lista"
+          }
+        }
+      }
+    },
+    "Added" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadida"
           }
         }
       }
@@ -188,6 +307,91 @@
         }
       }
     },
+    "Ask PickOne" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ask PickOne"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pregunta a PickOne"
+          }
+        }
+      }
+    },
+    "Availability data from JustWatch · may change" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Availability data from JustWatch · may change"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datos de disponibilidad de JustWatch · pueden cambiar"
+          }
+        }
+      }
+    },
+    "Availability region: Spain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Availability region: Spain"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponibilidad en España"
+          }
+        }
+      }
+    },
+    "Available on" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available on"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponible en"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
     "Backed by strong ratings and broad viewer evidence." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -201,6 +405,38 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Avalada por buenas valoraciones y un amplio respaldo del público."
+          }
+        }
+      }
+    },
+    "based on movies you liked." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "based on movies you liked."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "según películas que te gustaron."
+          }
+        }
+      }
+    },
+    "Based on movies you liked." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Based on movies you liked."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Según películas que te gustaron."
           }
         }
       }
@@ -222,6 +458,23 @@
         }
       }
     },
+    "Cancel calibration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel calibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar valoración"
+          }
+        }
+      }
+    },
     "Cancel Pick" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -235,6 +488,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar elección"
+          }
+        }
+      }
+    },
+    "Cancel this calibration?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel this calibration?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cancelar esta valoración?"
           }
         }
       }
@@ -273,6 +543,23 @@
         }
       }
     },
+    "Cast & Crew" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cast & Crew"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reparto y equipo"
+          }
+        }
+      }
+    },
     "Choice cancelled." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -290,6 +577,23 @@
         }
       }
     },
+    "Choose the services where you can watch movies without paying extra." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose the services where you can watch movies without paying extra."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige las plataformas en las que puedes ver películas sin pagar nada más."
+          }
+        }
+      }
+    },
     "Chosen with PickOne" : {
       "localizations" : {
         "en" : {
@@ -302,6 +606,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elegida con PickOne"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
           }
         }
       }
@@ -357,6 +695,57 @@
         }
       }
     },
+    "Continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "Continue calibration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue calibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguir valorando películas"
+          }
+        }
+      }
+    },
+    "Couldn't load details" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't load details"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron cargar los detalles"
+          }
+        }
+      }
+    },
     "Couldn't load tonight's picks" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -375,6 +764,7 @@
       }
     },
     "Couldn't load your movies" : {
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -403,6 +793,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se ha podido guardar tu opinión"
+          }
+        }
+      }
+    },
+    "Couldn't save preferences" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't save preferences"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron guardar tus preferencias"
           }
         }
       }
@@ -436,6 +843,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se han podido actualizar las recomendaciones. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Couldn't update watchlist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't update watchlist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo actualizar Mi lista"
+          }
+        }
+      }
+    },
+    "Credits are unavailable right now." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Credits are unavailable right now."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El reparto no está disponible ahora mismo."
           }
         }
       }
@@ -491,6 +932,40 @@
         }
       }
     },
+    "Describe what you feel like watching" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Describe what you feel like watching"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Describe qué te apetece ver"
+          }
+        }
+      }
+    },
+    "Details" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles"
+          }
+        }
+      }
+    },
     "Did you watch it?" : {
       "localizations" : {
         "en" : {
@@ -524,6 +999,40 @@
         }
       }
     },
+    "Director:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Director:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección:"
+          }
+        }
+      }
+    },
+    "Discover" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descubrir"
+          }
+        }
+      }
+    },
     "Discovery Choice" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -541,6 +1050,23 @@
         }
       }
     },
+    "Dismiss" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        }
+      }
+    },
     "Distinct movies observed per session" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -554,6 +1080,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Películas distintas observadas por sesión"
+          }
+        }
+      }
+    },
+    "Don't know it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't know it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No la conozco"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho"
           }
         }
       }
@@ -609,6 +1169,23 @@
         }
       }
     },
+    "Feedback controls are unavailable until movie details can be loaded." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback controls are unavailable until movie details can be loaded."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No puedes valorar hasta que se carguen los detalles de la película."
+          }
+        }
+      }
+    },
     "Feedback for %@" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -622,6 +1199,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opinión sobre %@"
+          }
+        }
+      }
+    },
+    "Feedback update failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback update failed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo guardar tu valoración"
           }
         }
       }
@@ -643,6 +1237,23 @@
         }
       }
     },
+    "Find a movie by title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find a movie by title"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busca una película por su título"
+          }
+        }
+      }
+    },
     "Finding more..." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -656,6 +1267,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscando más…"
+          }
+        }
+      }
+    },
+    "Finding recommendations..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finding recommendations..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando recomendaciones..."
           }
         }
       }
@@ -711,6 +1339,23 @@
         }
       }
     },
+    "Get Picks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Picks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver opciones"
+          }
+        }
+      }
+    },
     "Give me three more" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -741,6 +1386,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acciones de pedir tres más"
+          }
+        }
+      }
+    },
+    "Haven't seen it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haven't seen it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No la he visto"
           }
         }
       }
@@ -965,6 +1627,40 @@
         }
       }
     },
+    "Keep calibration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep calibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguir valorando"
+          }
+        }
+      }
+    },
+    "Keep it simple: mood, genre, pace, decade, or a movie reference is enough." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep it simple: mood, genre, pace, decade, or a movie reference is enough."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sé breve: basta con un estado de ánimo, un género, un ritmo, una década o una película de referencia."
+          }
+        }
+      }
+    },
     "Like it" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -995,6 +1691,91 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "te gustó"
+          }
+        }
+      }
+    },
+    "Loading availability" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading availability"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando disponibilidad"
+          }
+        }
+      }
+    },
+    "Loading details..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading details..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando detalles..."
+          }
+        }
+      }
+    },
+    "Loading picks..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading picks..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando opciones..."
+          }
+        }
+      }
+    },
+    "Loading preferences..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading preferences..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando preferencias..."
+          }
+        }
+      }
+    },
+    "Loading your feedback..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading your feedback..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando tus valoraciones..."
           }
         }
       }
@@ -1062,6 +1843,72 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "te encantó"
+          }
+        }
+      }
+    },
+    "Mark unwatched" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark unwatched"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar como no vista"
+          }
+        }
+      }
+    },
+    "Mark watched" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mark watched"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar como vista"
+          }
+        }
+      }
+    },
+    "matches" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "matches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "coincidencias"
+          }
+        }
+      }
+    },
+    "Matches" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coincidencias"
           }
         }
       }
@@ -1134,6 +1981,57 @@
         }
       }
     },
+    "Movie %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movie %lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Película %lld"
+          }
+        }
+      }
+    },
+    "Movie feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movie feedback"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu valoración"
+          }
+        }
+      }
+    },
+    "Movie titles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movie titles"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Títulos de películas"
+          }
+        }
+      }
+    },
     "Movies count once per session. Earlier sessions without observation evidence are excluded from this rate." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1197,6 +2095,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hay más recomendaciones disponibles ahora"
+          }
+        }
+      }
+    },
+    "No movies found for \"%@\"" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No movies found for \"%@\""
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay películas para «%@»"
           }
         }
       }
@@ -1268,6 +2183,23 @@
         }
       }
     },
+    "No results" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No results"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin resultados"
+          }
+        }
+      }
+    },
     "No unseen movie currently meets every taste and availability rule." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1318,6 +2250,40 @@
         }
       }
     },
+    "Not selected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not selected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No seleccionado"
+          }
+        }
+      }
+    },
+    "Not shown as included with your services." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not shown as included with your services."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No aparece incluida en tus plataformas."
+          }
+        }
+      }
+    },
     "Not watched after all" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1364,6 +2330,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecciones de recomendaciones observadas"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        }
+      }
+    },
+    "Open any card for detail or save it to your watchlist." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open any card for detail or save it to your watchlist."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre cualquier tarjeta para ver detalles o guárdala en Mi lista."
           }
         }
       }
@@ -1452,7 +2452,6 @@
       }
     },
     "Pick" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1469,7 +2468,6 @@
       }
     },
     "Pick %@" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1503,7 +2501,6 @@
       }
     },
     "Picked" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1520,7 +2517,6 @@
       }
     },
     "Picked: %@" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1620,6 +2616,91 @@
         }
       }
     },
+    "Preferences" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        }
+      }
+    },
+    "Preferences couldn't be loaded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences couldn't be loaded"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron cargar tus preferencias"
+          }
+        }
+      }
+    },
+    "Preferences couldn't be read" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences couldn't be read"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudieron leer tus preferencias"
+          }
+        }
+      }
+    },
+    "Preferences need to be reset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences need to be reset"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hay que restablecer tus preferencias"
+          }
+        }
+      }
+    },
+    "Preparing your calibration…" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing your calibration…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparando películas para conocer tus gustos…"
+          }
+        }
+      }
+    },
     "Rate" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1633,6 +2714,57 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valorar"
+          }
+        }
+      }
+    },
+    "Rate more movies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rate more movies"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valorar más películas"
+          }
+        }
+      }
+    },
+    "Read more" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Read more"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leer más"
+          }
+        }
+      }
+    },
+    "Recent Searches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recent Searches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Búsquedas recientes"
           }
         }
       }
@@ -1705,6 +2837,74 @@
         }
       }
     },
+    "Remove" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar"
+          }
+        }
+      }
+    },
+    "Remove from Watchlist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from Watchlist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar de Mi lista"
+          }
+        }
+      }
+    },
+    "Remove rating" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove rating"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar valoración"
+          }
+        }
+      }
+    },
+    "Repeat calibration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repeat calibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volver a valorar películas"
+          }
+        }
+      }
+    },
     "Replaced Picks" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1718,6 +2918,70 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elecciones sustituidas"
+          }
+        }
+      }
+    },
+    "Reset all movie data" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all movie data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar todos los datos de películas"
+          }
+        }
+      }
+    },
+    "Reset all movie data?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset all movie data?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Borrar todos los datos de películas?"
+          }
+        }
+      }
+    },
+    "Reset preferences" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset preferences"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restablecer preferencias"
+          }
+        }
+      }
+    },
+    "Reset preferences?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset preferences?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Restablecer preferencias?"
           }
         }
       }
@@ -1837,6 +3101,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apuesta segura"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
           }
         }
       }
@@ -1993,6 +3274,57 @@
         }
       }
     },
+    "Search" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
+          }
+        }
+      }
+    },
+    "Search failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search failed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La búsqueda ha fallado"
+          }
+        }
+      }
+    },
+    "Search for movies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search for movies"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Busca películas"
+          }
+        }
+      }
+    },
     "Searches" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2006,6 +3338,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Búsquedas"
+          }
+        }
+      }
+    },
+    "Searching..." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searching..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando..."
+          }
+        }
+      }
+    },
+    "Selected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionado"
           }
         }
       }
@@ -2061,6 +3427,23 @@
         }
       }
     },
+    "Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        }
+      }
+    },
     "shares %@" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2074,6 +3457,157 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "comparte %@"
+          }
+        }
+      }
+    },
+    "Show less" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show less"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar menos"
+          }
+        }
+      }
+    },
+    "similar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "similar"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "similar"
+          }
+        }
+      }
+    },
+    "Similar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar"
+          }
+        }
+      }
+    },
+    "Similar Movies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar Movies"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Películas similares"
+          }
+        }
+      }
+    },
+    "Similar movies are unavailable right now." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Similar movies are unavailable right now."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las películas similares no están disponibles ahora mismo."
+          }
+        }
+      }
+    },
+    "Start onboarding over?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start onboarding over?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Empezar de nuevo?"
+          }
+        }
+      }
+    },
+    "Start over" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start over"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empezar de nuevo"
+          }
+        }
+      }
+    },
+    "Streaming availability data is provided by JustWatch." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streaming availability data is provided by JustWatch."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los datos de disponibilidad en streaming los proporciona JustWatch."
+          }
+        }
+      }
+    },
+    "Streaming services" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streaming services"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plataformas de streaming"
           }
         }
       }
@@ -2095,6 +3629,40 @@
         }
       }
     },
+    "Synopsis" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synopsis"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sinopsis"
+          }
+        }
+      }
+    },
+    "Taste calibration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Taste calibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus gustos"
+          }
+        }
+      }
+    },
     "The action could not be completed. Please try again." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2112,6 +3680,91 @@
         }
       }
     },
+    "The Movie Database" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Movie Database"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Movie Database"
+          }
+        }
+      }
+    },
+    "This clears only your saved onboarding progress." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This clears only your saved onboarding progress."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo se borra el progreso guardado de la configuración inicial."
+          }
+        }
+      }
+    },
+    "This product uses the TMDB API but is not endorsed or certified by TMDB." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This product uses the TMDB API but is not endorsed or certified by TMDB."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este producto usa la API de TMDB, pero TMDB no lo respalda ni lo certifica."
+          }
+        }
+      }
+    },
+    "This removes your streaming services and movie calibration. Your Watchlist and Search History will stay." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This removes your streaming services and movie calibration. Your Watchlist and Search History will stay."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se borrarán tus plataformas y tus valoraciones iniciales. Mi lista y tu historial de búsqueda se mantienen."
+          }
+        }
+      }
+    },
+    "This saved movie data version isn't supported by this build. You can try again or reset all movie data." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This saved movie data version isn't supported by this build. You can try again or reset all movie data."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta versión de la app no admite tus datos guardados. Puedes volver a intentarlo o borrar todos los datos de películas."
+          }
+        }
+      }
+    },
     "Three for Tonight" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2125,6 +3778,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tres para esta noche"
+          }
+        }
+      }
+    },
+    "To Watch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To Watch"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por ver"
           }
         }
       }
@@ -2159,6 +3829,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se han podido guardar las recomendaciones. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Top cast: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top cast: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reparto principal: %@"
           }
         }
       }
@@ -2231,6 +3918,23 @@
         }
       }
     },
+    "Undo Not interested" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undo Not interested"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deshacer «No me interesa»"
+          }
+        }
+      }
+    },
     "Updating recommendations for %@" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2265,6 +3969,23 @@
         }
       }
     },
+    "View playback options on TMDB" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View playback options on TMDB"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver dónde verla en TMDB"
+          }
+        }
+      }
+    },
     "Viewing satisfaction" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2278,6 +3999,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Satisfacción con el visionado"
+          }
+        }
+      }
+    },
+    "Visit The Movie Database" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visit The Movie Database"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visitar The Movie Database"
+          }
+        }
+      }
+    },
+    "Want to rate a few more?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Want to rate a few more?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Valoras unas cuantas más?"
           }
         }
       }
@@ -2314,6 +4069,57 @@
         }
       }
     },
+    "Watchlist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watchlist"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi lista"
+          }
+        }
+      }
+    },
+    "Watchlist update failed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watchlist update failed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo actualizar Mi lista"
+          }
+        }
+      }
+    },
+    "We can start broadly with what you have told us, or you can rate a few more movies first." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We can start broadly with what you have told us, or you can rate a few more movies first."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podemos empezar con lo que nos has contado o puedes valorar algunas películas más antes."
+          }
+        }
+      }
+    },
     "We couldn't find a different unseen match we can confidently recommend from your services. Your current picks are still available." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2327,6 +4133,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hemos encontrado otra película sin ver de tus servicios que podamos recomendar con confianza. Tus recomendaciones actuales siguen disponibles."
+          }
+        }
+      }
+    },
+    "We couldn't verify availability." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We couldn't verify availability."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hemos podido comprobar la disponibilidad."
           }
         }
       }
@@ -2372,6 +4195,23 @@
         }
       }
     },
+    "We recovered an earlier saved version of your movie data. Please review it in Settings." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We recovered an earlier saved version of your movie data. Please review it in Settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hemos recuperado una versión anterior de tus datos de películas. Revísala en Ajustes."
+          }
+        }
+      }
+    },
     "We've checked more movies and revisited older suggestions, but couldn't find an unseen match we can confidently recommend from your services." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2389,6 +4229,23 @@
         }
       }
     },
+    "We’re resolving the best available matches from the current recommendation source." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We’re resolving the best available matches from the current recommendation source."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estamos buscando las mejores coincidencias disponibles."
+          }
+        }
+      }
+    },
     "What did you think?" : {
       "localizations" : {
         "en" : {
@@ -2401,6 +4258,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Qué te pareció?"
+          }
+        }
+      }
+    },
+    "Why it fits" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Why it fits"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por qué encaja"
           }
         }
       }
@@ -2506,6 +4380,40 @@
         }
       }
     },
+    "Your current saved preferences will stay unchanged." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your current saved preferences will stay unchanged."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus preferencias guardadas no cambiarán."
+          }
+        }
+      }
+    },
+    "Your feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your feedback"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu valoración"
+          }
+        }
+      }
+    },
     "Your feedback wasn't saved. Please try again." : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2584,6 +4492,57 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aquí aparecerán las películas que has valorado, visto o marcado como no interesantes."
+          }
+        }
+      }
+    },
+    "Your saved movie data is damaged and couldn't be recovered. You can try again or reset all movie data." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your saved movie data is damaged and couldn't be recovered. You can try again or reset all movie data."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tus datos guardados están dañados y no se han podido recuperar. Puedes volver a intentarlo o borrar todos los datos de películas."
+          }
+        }
+      }
+    },
+    "Your watchlist is empty" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your watchlist is empty"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi lista está vacía"
+          }
+        }
+      }
+    },
+    "·" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "·"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "·"
           }
         }
       }

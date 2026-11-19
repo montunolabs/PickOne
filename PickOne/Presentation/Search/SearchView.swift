@@ -35,15 +35,15 @@ struct SearchView: View {
 
                     case let .empty(query):
                         EmptyStateView(
-                            title: "No results",
-                            message: "No movies found for \"\(query)\"",
+                            title: String(localized: "No results"),
+                            message: String(localized: "No movies found for \"\(query)\""),
                             actionTitle: "Clear",
                             action: { model.clearSearch() }
                         )
 
                     case let .error(message):
                         EmptyStateView(
-                            title: "Search failed",
+                            title: String(localized: "Search failed"),
                             message: message,
                             actionTitle: "Try again",
                             action: { model.selectHistoryItem(model.query) }
@@ -59,7 +59,7 @@ struct SearchView: View {
                     get: { model.query },
                     set: { model.onQueryChange($0) }
                 ),
-                prompt: "Movie titles"
+                prompt: String(localized: "Movie titles")
             )
             .onAppear {
                 model.loadHistory()
@@ -73,8 +73,8 @@ struct SearchView: View {
     private func historyView(history: [String]) -> some View {
         if history.isEmpty {
             EmptyStateView(
-                title: "Search for movies",
-                message: "Find a movie by title",
+                title: String(localized: "Search for movies"),
+                message: String(localized: "Find a movie by title"),
                 actionTitle: nil,
                 action: nil
             )

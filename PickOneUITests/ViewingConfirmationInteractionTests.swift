@@ -63,7 +63,7 @@ final class ViewingConfirmationInteractionTests: XCTestCase {
             app.scrollViews.firstMatch.swipeUp()
         }
         answer.tap()
-        app.tabBars.buttons["Settings"].tap()
+        app.tabBars.buttons[language == "es" ? "Ajustes" : "Settings"].tap()
         app.buttons[language == "es" ? "Mis películas" : "My movies"].tap()
         let badge = app.staticTexts["pickone-provenance-101"]
         XCTAssertTrue(badge.waitForExistence(timeout: 15))
@@ -73,7 +73,7 @@ final class ViewingConfirmationInteractionTests: XCTestCase {
         add(screenshot)
         app.terminate()
         app.launch()
-        app.tabBars.buttons["Settings"].tap()
+        app.tabBars.buttons[language == "es" ? "Ajustes" : "Settings"].tap()
         app.buttons[language == "es" ? "Mis películas" : "My movies"].tap()
         XCTAssertTrue(badge.waitForExistence(timeout: 15), "Provenance survives process recreation")
     }

@@ -42,6 +42,10 @@ struct HomeDecisionCard: View {
         ))
     }
 
+    private var isPicked: Bool {
+        pickModel?.activeDecision?.recommendation.movieID == item.id
+    }
+
     var body: some View {
         VStack(spacing: 0) {
             if case let .poster(image) = artwork {
@@ -76,7 +80,13 @@ struct HomeDecisionCard: View {
                     imagePipeline: imagePipeline,
                     pickModel: pickModel
                 )
+
+                if isPicked {
+                    HomeWatchHandoff(item: item)
+                        .transition(.opacity)
+                }
             }
+            .animation(.default, value: isPicked)
             .padding(isHero ? 24 : 18)
             .frame(maxWidth: .infinity, alignment: .leading)
             .background {
@@ -272,6 +282,33 @@ private struct HomeDecisionCardContent: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .accessibilityElement(children: .combine)
         .accessibilityHint("Open movie details")
+    }
+}
+
+/// After a Pick, offers to open the chosen movie in each service that
+/// includes it, so the decision ends in watching rather than in PickOne.
+@MainActor
+private struct HomeWatchHandoff: View {
+    @Environment(\.openURL) private var openURL
+    let item: HomeDecisionMovieItem
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            ForEach(item.providers) { provider in
+                if let url = StreamingServiceLink.searchURL(providerID: provider.id, title: item.title) {
+                    Button {
+                        openURL(url)
+                    } label: {
+                        Label(String(localized: "Watch on \(provider.name)"), systemImage: "play.fill")
+                            .frame(maxWidth: .infinity)
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .controlSize(.large)
+                    .accessibilityHint(String(localized: "Opens \(provider.name) to search for \(item.title)"))
+                    .accessibilityIdentifier("home-watch-\(provider.id)-\(item.id)")
+                }
+            }
+        }
     }
 }
 
